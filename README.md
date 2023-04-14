@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jorgeanalista2008
 - 👀 I’m interested in Jobs
-- 🌱 I’m currently learning React JS + Vue 
+- 🌱 I’m currently learning React JS + Next + Mui 
 - 📫 How to reach me jorge.analista2008@gmail.com
 
 <!---
