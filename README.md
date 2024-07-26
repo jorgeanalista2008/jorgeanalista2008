@@ -30,7 +30,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## Las estadisticas del repositorio
-![jorgeanalista2008' GitHub stats](https://github-readme-stats.vercel.app/api?username=condorcoders&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condorcoders&layout=compact&theme=dark)
+![jorgeanalista2008' GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeanalista2008&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeanalista2008&layout=compact&theme=dark)
 <!---
 jorgeanalista2008/jorgeanalista2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
