@@ -17,15 +17,7 @@
   </picture>
 </p>
 </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Isac999">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Isac999&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-        </a>
-        <br>
-        <a href="https://github.com/Isac999">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isac999&layout=compact&langs_count=7&theme=neon"/>
-        </a>
-      </td>
+      
   </tr>
 </table>
 
