@@ -1,39 +1,53 @@
-- 👋 Hi, I’m @jorgeanalista2008
-- 👀 I’m interested in Jobs
-- 🌱 I’m currently learning React JS + Next + Mui 
-      Also Jsx and Nodejs
-- 📫 How to reach me jorge.analista2008@gmail.com
-
-<table>
-  <tr>
-<td width="50%">
-
-  <!-- Snake animation -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Isac999/Isac999/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Isac999/Isac999/blob/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://github.com/Isac999/Isac999/blob/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+# 👋 Hola, soy Jorge | Full-Stack Developer & Entrepreneur
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jorgeanalista2008&color=blueviolet&style=flat-square" alt="Vistas de perfil" />
 </p>
-</td>
-      
-  </tr>
-</table>
 
-<br>
+### 🛠️ Sobre mí
+Soy un **desarrollador web enfocado en soluciones escalables**. Mi pasión es transformar ideas de negocio en software funcional, optimizando la arquitectura y la experiencia de usuario. Actualmente, estoy profundizando en el ecosistema de **React, Next.js y NestJS** para construir aplicaciones de alto rendimiento.
 
+- 🔭 **Proyectos actuales:** Modernización de arquitecturas legacy y sistemas de gestión empresarial.
+- 🌱 **Aprendiendo:** Especialización en NestJS, Clean Architecture y optimización de UI con Material UI.
+- 💬 **Hablemos sobre:** Arquitectura de software, emprendimiento y desarrollo Full-Stack.
+- ⚡ **Dato curioso:** Me apasiona la psicología del aprendizaje aplicada a la tecnología.
 
-</div>
+---
 
-## Tecnologias 💻
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<br/>
+### 💻 Stack Tecnológico
+
+**Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+**Backend & DB**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jorgeanalista2008&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeanalista2008&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🐍 Contribuciones
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Isac999/Isac999/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Isac999/Isac999/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Isac999/Isac999/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+---
+
+### 📫 Contacto
+<p align="left">
+<a href="mailto:jorge.analista2008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
