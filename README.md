@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jorge | Full-Stack Developer & Entrepreneur
+# 👋 Hola, soy Jorge | Full-Stack Developer
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jorgeanalista2008&color=blueviolet&style=flat-square" alt="Vistas de perfil" />
 </p>
