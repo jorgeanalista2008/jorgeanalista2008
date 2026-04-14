@@ -29,18 +29,13 @@ Soy un **desarrollador web enfocado en soluciones escalables**. Mi pasión es tr
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jorgeanalista2008&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeanalista2008&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ### 🐍 Contribuciones
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Isac999/Isac999/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Isac999/Isac999/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Isac999/Isac999/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/jorgeanalista2008/jorgeanalista2008/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
 
